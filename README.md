@@ -3,7 +3,7 @@
 A simple login and signup UI with minimal routing for your app.
 
 ## How it looks
-<img src = "images/Capture.PNG" width = 200 hspace = '60'><img src = "images/Capture2.PNG" width = 197>
+<img src = "images/Capture.PNG" width = 200 hspace = '60'><img src = "images/Capture2.PNG" width = 200>
 
 ## Getting Started 
 
